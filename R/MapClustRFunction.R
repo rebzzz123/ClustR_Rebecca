@@ -13,7 +13,7 @@
 #'}
 #'@export
 #'@import ggplot2 ggmap
-#' @importFrom stats chisq.test complete.cases ecdf p.adjust quantile setNames
+#' @importFrom stats complete.cases setNames
 #' @importFrom utils write.csv
 
 map.clustr <- function(results=NULL, type=1, adj=FALSE, adj.cutoff=.05, zoom=6, region=NULL){
