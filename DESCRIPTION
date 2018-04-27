@@ -1,0 +1,15 @@
+Package: clustr
+Title: Identify and Map Space-time Clusters for Case-control or Cohort Data
+Version: 0.0.0.9000
+Authors@R: c(
+  person("Catherine", "Enders", email = "catherine_enders@berkeley.edu", role = c("aut", "cre")),
+  person("Rebecca", "Hyde", email = "rebecca.hyde@berkeley.edu", role = c("aut")),
+  person("Steve", "Francis", email = "ssfrancis@gmail.com", role = c("aut")),
+  person("Steve", "Selvin", email = "selvin@stat.berkeley.edu", role = c("aut")))
+Description: See publication to come.
+Depends: R (>= 3.4.2)
+Imports: ggplot2, ggmap
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
