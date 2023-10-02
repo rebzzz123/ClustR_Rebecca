@@ -1,4 +1,3 @@
-# ClustR-Package2
-Updated on 4 27 2018
+Updated ClustR code for Atropos Take Home assessment.
 
-Add installation instructions eventually.
+See instructions in email for installation instructions & data.
